@@ -64,7 +64,3 @@ This plugin is distributed under the MIT License.
 🤝 Contributing
 
 Contributions are welcome! Please submit an issue or pull request to suggest improvements or report bugs.
-📧 Contact
-
-For support or inquiries, please contact:
-Email: karias@pedelta.com.co
